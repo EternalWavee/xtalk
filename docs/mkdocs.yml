@@ -60,6 +60,7 @@ plugins:
             'Speech Enhancer Design': 语音增强设计
             'VAD Design': VAD设计
             'Turn Detector Design': Turn Detector设计
+            'Tool Design': 工具调用
             'Model clone() and reset()': 模型对象的clone()与reset()语义
             # Tabs under API
             'Client': 客户端
